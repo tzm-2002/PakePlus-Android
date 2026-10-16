@@ -1,0 +1,1 @@
+import{r as e}from"./http-DX1McfTm.js";function t(t){return e({url:`/order/service/queryUnCompleted`,method:`post`,data:t})}function n(t){return e({url:`/order/service/add`,method:`post`,data:t})}function r(){return e({url:`/order/service/enums/orderStateEnum`,method:`get`})}export{r as n,t as r,n as t};
